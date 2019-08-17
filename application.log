@@ -1,0 +1,10 @@
+2019-08-17 15:48:16,132  INFO [main] LoginTest:33 - ****************************** Starting test cases execution  *****************************************
+2019-08-17 15:48:19,205  INFO [main] LoginTest:37 - launching chrome broswer
+2019-08-17 15:48:23,411  INFO [main] LoginTest:44 - entering application URL
+2019-08-17 15:48:23,413  WARN [main] LoginTest:45 - Hey this just a warning message
+2019-08-17 15:48:23,414 FATAL [main] LoginTest:46 - hey this is just fatal error message
+2019-08-17 15:48:23,416 DEBUG [main] LoginTest:47 - this is debug message
+2019-08-17 15:48:23,430  INFO [main] LoginTest:53 - ****************************** starting test case *****************************************
+2019-08-17 15:48:23,430  INFO [main] LoginTest:54 - ****************************** freeCrmTitleTest *****************************************
+2019-08-17 15:48:23,465  INFO [main] LoginTest:57 - login page title is--->#1 Free CRM software for any business - FreeCRM.com
+2019-08-17 15:48:24,089  INFO [main] LoginTest:89 - ****************************** Browser is closed *****************************************
